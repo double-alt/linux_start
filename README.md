@@ -1,2 +1,2 @@
-# linux_start
-linux start example
+#linux start example
+*	to do 
